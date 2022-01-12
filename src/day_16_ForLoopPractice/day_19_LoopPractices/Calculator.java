@@ -1,4 +1,4 @@
-package day_19_LoopPractices;
+package day_16_ForLoopPractice.day_19_LoopPractices;
 
 import java.util.Scanner;
 

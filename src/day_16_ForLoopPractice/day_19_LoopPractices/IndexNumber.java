@@ -1,4 +1,4 @@
-package day_19_LoopPractices;
+package day_16_ForLoopPractice.day_19_LoopPractices;
 
 public class IndexNumber {
     public static void main(String[] args) {
