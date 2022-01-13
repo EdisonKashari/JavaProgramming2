@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="12749648-4ab8-4867-9b9e-dee3dfa1300f" name="Changes" comment="day_38_Inheritance.CarTask;">
-      <change afterPath="$PROJECT_DIR$/src/day_38_Inheritance/CarTask/BMW.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day_38_Inheritance/CarTask/CarObject.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,13 +60,13 @@
       <recent name="C:\Users\ediso\IdeaProjects\JavaProgramming\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Tesstt">
-    <configuration name="CustomMethodsIntro" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day_23_CustomMethods_Void.CustomMethodsIntro" />
+  <component name="RunManager" selected="Application.CarObject">
+    <configuration name="CarObject" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day_38_Inheritance.CarTask.CarObject" />
       <module name="JavaProgramming" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day_23_CustomMethods_Void.*" />
+          <option name="PATTERN" value="day_38_Inheritance.CarTask.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -128,11 +128,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CarObject" />
         <item itemvalue="Application.Tesstt" />
         <item itemvalue="Application.test" />
         <item itemvalue="Application.ReturnMethod" />
         <item itemvalue="Application.WrapperClassMethods" />
-        <item itemvalue="Application.CustomMethodsIntro" />
       </list>
     </recent_temporary>
   </component>
@@ -181,7 +181,7 @@
       <workItem from="1642030425239" duration="397000" />
       <workItem from="1642088473365" duration="27000" />
       <workItem from="1642088537873" duration="10000" />
-      <workItem from="1642088762226" duration="1089000" />
+      <workItem from="1642088762226" duration="1680000" />
     </task>
     <task id="LOCAL-00001" summary="&#10;&#10;initial commit">
       <created>1641928952169</created>
@@ -232,7 +232,14 @@
       <option name="project" value="LOCAL" />
       <updated>1642089783896</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="day_38_Inheritance.CarTask;">
+      <created>1642089885198</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1642089885198</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
