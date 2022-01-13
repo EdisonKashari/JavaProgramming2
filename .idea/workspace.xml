@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="12749648-4ab8-4867-9b9e-dee3dfa1300f" name="Changes" comment="last commit">
+    <list default="true" id="12749648-4ab8-4867-9b9e-dee3dfa1300f" name="Changes" comment="day_38_Inheritance.CarTask;">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -17,7 +17,9 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="GitSEFilterConfiguration">
     <file-type-list>
@@ -175,8 +177,10 @@
       <workItem from="1642028609922" duration="219000" />
       <workItem from="1642028920681" duration="663000" />
       <workItem from="1642029599145" duration="807000" />
-      <workItem from="1642030425239" duration="1208000" />
-      <workItem from="1642086285113" duration="666000" />
+      <workItem from="1642030425239" duration="397000" />
+      <workItem from="1642088473365" duration="27000" />
+      <workItem from="1642088537873" duration="10000" />
+      <workItem from="1642088762226" duration="602000" />
     </task>
     <task id="LOCAL-00001" summary="&#10;&#10;initial commit">
       <created>1641928952169</created>
@@ -206,12 +210,12 @@
       <option name="project" value="LOCAL" />
       <updated>1642030693996</updated>
     </task>
-    <task id="LOCAL-00005" summary="last commit">
-      <created>1642030937845</created>
+    <task id="LOCAL-00005" summary="day_38_Inheritance.CarTask;">
+      <created>1642089114475</created>
       <option name="number" value="00005" />
       <option name="presentableId" value="LOCAL-00005" />
       <option name="project" value="LOCAL" />
-      <updated>1642030937845</updated>
+      <updated>1642089114475</updated>
     </task>
     <option name="localTasksCounter" value="6" />
     <servers />
@@ -242,8 +246,8 @@
     <MESSAGE value="first commit" />
     <MESSAGE value="second commit" />
     <MESSAGE value="third commit" />
-    <MESSAGE value="last commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="last commit" />
+    <MESSAGE value="day_38_Inheritance.CarTask;" />
+    <option name="LAST_COMMIT_MESSAGE" value="day_38_Inheritance.CarTask;" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
