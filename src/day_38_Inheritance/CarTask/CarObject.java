@@ -2,7 +2,7 @@ package day_38_Inheritance.CarTask;
 
 public class CarObject {
     public static void main(String[] args) {
-        Toyota toyota = new Toyota("Toyota","Corolla",2010,10050,"White",125000);
+        Toyota toyota = new Toyota("Corolla",2010,10050,"White",125000);
 
         toyota.reliable();
         toyota.drive();
