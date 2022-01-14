@@ -2,9 +2,47 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="12749648-4ab8-4867-9b9e-dee3dfa1300f" name="Changes" comment="day_38_Inheritance.CarTask;">
+      <change afterPath="$PROJECT_DIR$/src/day_38_inheritancee/Animal/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day_38_inheritancee/Animal/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day_38_inheritancee/Animal/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day_38_inheritancee/Animal/Eagle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day_38_inheritancee/Animal/Tiger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day_38_inheritancee/Browser/Browser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day_38_inheritancee/Browser/ChromeBrowser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day_38_inheritancee/Browser/Firefox.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day_38_inheritancee/Browser/Opera.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day_38_inheritancee/Browser/Safari.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day_38_inheritancee/EmployeeTask/BusinessAnalyst.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day_38_inheritancee/EmployeeTask/Developer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day_38_inheritancee/EmployeeTask/Driver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day_38_inheritancee/EmployeeTask/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day_38_inheritancee/EmployeeTask/Pilot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day_38_inheritancee/EmployeeTask/ProductOwner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day_38_inheritancee/EmployeeTask/ScrumMaster.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day_38_inheritancee/EmployeeTask/Teacher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day_38_inheritancee/EmployeeTask/Tester.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day_38_Inheritance/CarTask/CarObject.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day_38_Inheritance/CarTask/CarObject.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day_38_Inheritance/CarTask/Toyota.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day_38_Inheritance/CarTask/Toyota.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day_33_Statics/day_33_Statics/Address.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day_33_Staticss/Address.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day_33_Statics/day_33_Statics/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day_33_Staticss/Car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day_33_Statics/day_33_Statics/CarObject.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day_33_Staticss/CarObject.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day_33_Statics/day_33_Statics/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day_33_Staticss/Circle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day_33_Statics/day_33_Statics/CircleObject.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day_33_Staticss/CircleObject.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day_33_Statics/day_33_Statics/CydeoStudent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day_33_Staticss/CydeoStudent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day_33_Statics/day_33_Statics/CydeoStudentObject.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day_33_Staticss/CydeoStudentObject.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day_33_Statics/day_33_Statics/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day_33_Staticss/Dog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day_33_Statics/day_33_Statics/IPhone.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day_33_Staticss/IPhone.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day_33_Statics/day_33_Statics/IphoneObject.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day_33_Staticss/IphoneObject.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day_33_Statics/day_33_Statics/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day_33_Staticss/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day_33_Statics/day_33_Statics/PersonObject.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day_33_Staticss/PersonObject.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day_33_Statics/day_33_Statics/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day_33_Staticss/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day_33_Statics/day_33_Statics/StudentObject.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day_33_Staticss/StudentObject.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day_33_Statics/day_33_Statics/StudentTask.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day_33_Staticss/StudentTask.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day_38_Inheritance/CarTask/BMW.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day_38_inheritancee/CarTask/BMW.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day_38_Inheritance/CarTask/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day_38_inheritancee/CarTask/Car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day_38_Inheritance/CarTask/CarObject.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day_38_inheritancee/CarTask/CarObject.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day_38_Inheritance/CarTask/Tesla.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day_38_inheritancee/CarTask/Tesla.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day_38_Inheritance/CarTask/Toyota.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day_38_inheritancee/CarTask/Toyota.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -183,7 +221,7 @@
       <workItem from="1642030425239" duration="397000" />
       <workItem from="1642088473365" duration="27000" />
       <workItem from="1642088537873" duration="10000" />
-      <workItem from="1642088762226" duration="4430000" />
+      <workItem from="1642088762226" duration="4037000" />
     </task>
     <task id="LOCAL-00001" summary="&#10;&#10;initial commit">
       <created>1641928952169</created>

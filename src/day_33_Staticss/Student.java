@@ -1,4 +1,4 @@
-import java.util.Arrays;
+package day_33_Staticss;
 
 public class Student {
 
@@ -13,7 +13,7 @@ public class Student {
     }
 
     public Student(String name, char gender) {
-        // this.name = name;
+       // this.name = name;
         this(name);
         this.gender = gender;
 
@@ -42,7 +42,7 @@ public class Student {
     }
 
     public Student(String name, char gender, int age, int studentID, char grade) {
-        this(name, gender, age, studentID);
+       this(name, gender, age, studentID);
         this.grade = grade;
     }
 
@@ -56,21 +56,25 @@ public class Student {
                 '}';
     }
 }
-class StudentObject{
+/*Student Task:
+        1. Create a class called Student:
+                Attributes:
+                    name, gender, age, studentID, grade
 
-    public static void main(String[] args) {
-        day_33_Staticss.Student student1 = new day_33_Staticss.Student("Ahmet");
-        day_33_Staticss.Student student2 = new day_33_Staticss.Student("Aygun",'F');
-        day_33_Staticss.Student student3 = new day_33_Staticss.Student("Nigara",11);
-        day_33_Staticss.Student student4 = new day_33_Staticss.Student("Mert",12,'A');
-        day_33_Staticss.Student student5 = new day_33_Staticss.Student("Cihad",'M',28);
-        day_33_Staticss.Student student6 = new day_33_Staticss.Student("Suhaib",'M',27,15);
-        day_33_Staticss.Student student7= new day_33_Staticss.Student("Ali",'M',42,34,'C');
+                Add a constructor that allows user to create object by setting the name of student
 
-        System.out.println(student1==student2);
+                Add a constructor that allows user to create object by setting the name and gender of the student
 
-        day_33_Staticss.Student[] students = {student1,student2,student3,student4,student5,student6,student7};
+                Add a constructor that allows user to create object by setting the name and studentID of the student
 
-        System.out.println(Arrays.toString(students));
-    }
-}
+                Add a constructor that allows user to create object by setting the name, studentID and grade of the student
+
+                Add a constructor that allows user to create object by setting the name, gender and age of the student
+
+                Add a constructor that allows user to create object by setting the name, gende, age and studentID of the student
+
+                Add a constructor that allows user to create object by setting the name, gende, age, studentID and grade of the student
+
+                Actions:
+                    toString()
+                    study()*/
