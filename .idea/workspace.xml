@@ -2,6 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="12749648-4ab8-4867-9b9e-dee3dfa1300f" name="Changes" comment="day_39_Recap;">
+      <change afterPath="$PROJECT_DIR$/src/day_39_Recap/AnimalTask/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day_39_Recap/AnimalTask/Bear.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day_39_Recap/AnimalTask/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day_39_Recap/AnimalTask/Crocodile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day_39_Recap/AnimalTask/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day_39_Recap/AnimalTask/Dolphin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day_39_Recap/AnimalTask/Eagle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day_39_Recap/AnimalTask/FriendlyAnimal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day_39_Recap/AnimalTask/Lion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day_39_Recap/AnimalTask/Parrot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day_39_Recap/AnimalTask/Python.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day_39_Recap/AnimalTask/Tiger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day_39_Recap/AnimalTask/WildAnimal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day_39_Recap/AnimalTask/Zoo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -60,7 +74,7 @@
       <recent name="C:\Users\ediso\IdeaProjects\JavaProgramming\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Cydeo">
+  <component name="RunManager" selected="Application.Zoo">
     <configuration name="CarObject" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="day_38_Inheritance.CarTask.CarObject" />
       <module name="JavaProgramming" />
@@ -87,12 +101,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReturnMethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day_24_CustomMethods_Return.ReturnMethod" />
+    <configuration name="Tesstt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day_37_Inheritance.Tesstt" />
       <module name="JavaProgramming" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day_24_CustomMethods_Return.*" />
+          <option name="PATTERN" value="day_37_Inheritance.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -100,12 +114,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Tesstt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day_37_Inheritance.Tesstt" />
+    <configuration name="Zoo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day_39_Recap.AnimalTask.Zoo" />
       <module name="JavaProgramming" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day_37_Inheritance.*" />
+          <option name="PATTERN" value="day_39_Recap.AnimalTask.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -128,11 +142,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Zoo" />
         <item itemvalue="Application.Cydeo" />
         <item itemvalue="Application.CarObject" />
         <item itemvalue="Application.Tesstt" />
         <item itemvalue="Application.test" />
-        <item itemvalue="Application.ReturnMethod" />
       </list>
     </recent_temporary>
   </component>
@@ -260,7 +274,14 @@
       <option name="project" value="LOCAL" />
       <updated>1642197790770</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="day_39_Recap;">
+      <created>1642214104829</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1642214104829</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
