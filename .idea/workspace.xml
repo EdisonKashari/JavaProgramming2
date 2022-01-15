@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="12749648-4ab8-4867-9b9e-dee3dfa1300f" name="Changes" comment="day_38_Inheritance.CarTask;">
-      <change afterPath="$PROJECT_DIR$/src/day_39_Recap/CydeoTask/Cydeo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day_39_Recap/CydeoTask/Developer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day_39_Recap/CydeoTask/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day_39_Recap/CydeoTask/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day_39_Recap/CydeoTask/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day_39_Recap/CydeoTask/Teacher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day_39_Recap/CydeoTask/Tester.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day_39_Recap/Shape/Shape.java" afterDir="false" />
+    <list default="true" id="12749648-4ab8-4867-9b9e-dee3dfa1300f" name="Changes" comment="day_39_Recap;">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -261,7 +253,14 @@
       <option name="project" value="LOCAL" />
       <updated>1642132687747</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="day_39_Recap;">
+      <created>1642197790770</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1642197790770</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -291,7 +290,8 @@
     <MESSAGE value="second commit" />
     <MESSAGE value="third commit" />
     <MESSAGE value="day_38_Inheritance.CarTask;" />
-    <option name="LAST_COMMIT_MESSAGE" value="day_38_Inheritance.CarTask;" />
+    <MESSAGE value="day_39_Recap;" />
+    <option name="LAST_COMMIT_MESSAGE" value="day_39_Recap;" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
