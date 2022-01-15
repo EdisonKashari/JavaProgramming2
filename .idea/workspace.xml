@@ -1,23 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="12749648-4ab8-4867-9b9e-dee3dfa1300f" name="Changes" comment="day_39_Recap;">
-      <change afterPath="$PROJECT_DIR$/src/day_39_Recap/AnimalTask/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day_39_Recap/AnimalTask/Bear.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day_39_Recap/AnimalTask/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day_39_Recap/AnimalTask/Crocodile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day_39_Recap/AnimalTask/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day_39_Recap/AnimalTask/Dolphin.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day_39_Recap/AnimalTask/Eagle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day_39_Recap/AnimalTask/FriendlyAnimal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day_39_Recap/AnimalTask/Lion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day_39_Recap/AnimalTask/Parrot.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day_39_Recap/AnimalTask/Python.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day_39_Recap/AnimalTask/Tiger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day_39_Recap/AnimalTask/WildAnimal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day_39_Recap/AnimalTask/Zoo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="12749648-4ab8-4867-9b9e-dee3dfa1300f" name="Changes" comment="day_39_Recap;" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -281,7 +265,14 @@
       <option name="project" value="LOCAL" />
       <updated>1642214104829</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="day_39_Recap;">
+      <created>1642271573403</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1642271573403</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
