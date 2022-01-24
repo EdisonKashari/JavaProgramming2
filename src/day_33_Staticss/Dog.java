@@ -8,6 +8,7 @@ public class Dog {
     public static int numberOfLegs= 4,numberOfEyes = 2,numberOfWings = 0;
     public static boolean isFriendly = true;
 
+
     public Dog(String breed, String color, String size,String name, int age, char gender) {
         this.breed = breed;
         this.color = color;
