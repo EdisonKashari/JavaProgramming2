@@ -2,23 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="12749648-4ab8-4867-9b9e-dee3dfa1300f" name="Changes" comment="day 43 abstract">
-      <change afterPath="$PROJECT_DIR$/src/day_43_Abstract/Animals/AnimalObject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day_43_Abstract/Animals/Animals.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day_43_Abstract/Animals/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day_43_Abstract/Animals/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day_43_Abstract/Animals/Eagle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day_43_Abstract/Animals/Tiger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day_43_Abstract/Car/Audi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day_43_Abstract/Car/CarShop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day_43_Abstract/Car/Honda.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day_43_Abstract/Car/Tesla.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day_43_Abstract/Employee/Developer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day_43_Abstract/Employee/Driver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day_43_Abstract/Employee/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day_43_Abstract/Employee/EmployeeObject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day_43_Abstract/Employee/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day_43_Abstract/Employee/Teacher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day_43_Abstract/Employee/Tester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day_43_Abstract/Shape/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day_43_Abstract/Shape/Reactangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day_43_Abstract/Shape/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day_43_Abstract/Shape/ShapeObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day_43_Abstract/Shape/Square.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -77,7 +65,7 @@
       <recent name="C:\Users\ediso\IdeaProjects\JavaProgramming\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.AnimalObject">
+  <component name="RunManager" selected="Application.ShapeObject">
     <configuration name="AnimalObject" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="day_43_Abstract.Animals.AnimalObject" />
       <module name="JavaProgramming" />
@@ -130,20 +118,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReverseArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ReverseArray" />
+    <configuration name="ShapeObject" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day_43_Abstract.Shape.ShapeObject" />
       <module name="JavaProgramming" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day_43_Abstract.Shape.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ShapeObject" />
         <item itemvalue="Application.AnimalObject" />
         <item itemvalue="Application.EmployeeObject" />
         <item itemvalue="Application.CarShop" />
         <item itemvalue="Application.Checked_vs_Unchecked" />
-        <item itemvalue="Application.ReverseArray" />
       </list>
     </recent_temporary>
   </component>
@@ -202,7 +196,7 @@
       <workItem from="1642962431891" duration="2746000" />
       <workItem from="1643295978633" duration="2248000" />
       <workItem from="1643386654520" duration="738000" />
-      <workItem from="1643511746886" duration="22616000" />
+      <workItem from="1643511746886" duration="28676000" />
     </task>
     <task id="LOCAL-00001" summary="&#10;&#10;initial commit">
       <created>1641928952169</created>
@@ -323,7 +317,14 @@
       <option name="project" value="LOCAL" />
       <updated>1643651507178</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="day 43 abstract">
+      <created>1643676204243</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1643676204243</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
