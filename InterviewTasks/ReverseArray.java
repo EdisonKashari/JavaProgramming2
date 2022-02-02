@@ -6,9 +6,9 @@ public class ReverseArray {
 
         int [] result= new int[arr.length];
 
-        for (int i = arr.length - 1,j=0; i >= 0; i--) {
+        for (int i = arr.length - 1,j=0; i >= 0; i--,j++) {
 
-            result[j++]=arr[i]; // j = 0 i  = 5 j = 1 i = 4;
+            result[j]=arr[i]; // j = 0 i  = 4 j = 1 i = 4;
 
 
 

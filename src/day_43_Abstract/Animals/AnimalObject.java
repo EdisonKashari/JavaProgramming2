@@ -18,6 +18,9 @@ Eagle eagle = new Eagle("Pluton","Crazy",1,'M',"Medium","Black");
         System.out.println(eagle);
         System.out.println("--------------------------------------------------------------");
 
-        dog.eat();cat.eat();tiger.eat();eagle.eat();
+        dog.eat();
+        cat.eat();
+        tiger.eat();
+        eagle.eat();
     }
 }
