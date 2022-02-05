@@ -2,11 +2,25 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="12749648-4ab8-4867-9b9e-dee3dfa1300f" name="Changes" comment="day 43 abstract">
+      <change afterPath="$PROJECT_DIR$/src/day_44_Abstraction/Animal/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day_44_Abstraction/Animal/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day_44_Abstraction/Animal/Cow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day_44_Abstraction/Animal/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day_44_Abstraction/Animal/Dolphin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day_44_Abstraction/Animal/Duck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day_44_Abstraction/Animal/Eagle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day_44_Abstraction/Animal/Falcon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day_44_Abstraction/Animal/Flyable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day_44_Abstraction/Animal/Horse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day_44_Abstraction/Animal/Lion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day_44_Abstraction/Animal/Parrot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day_44_Abstraction/Animal/Plyable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day_44_Abstraction/Animal/Shark.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day_44_Abstraction/Animal/Swimable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day_44_Abstraction/Animal/Tiger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day_44_Abstraction/Animal/Wild.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/InterviewTasks/PalindromeWithForLoop.java" beforeDir="false" afterPath="$PROJECT_DIR$/InterviewTasks/PalindromeWithForLoop.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/InterviewTasks/ReverseArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/InterviewTasks/ReverseArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day_43_Abstract/Animals/AnimalObject.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day_43_Abstract/Animals/AnimalObject.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day_43_Abstract/Animals/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day_43_Abstract/Animals/Cat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day_38_inheritancee/Animal/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day_38_inheritancee/Animal/Animal.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,6 +31,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -185,6 +200,8 @@
       <workItem from="1643386654520" duration="738000" />
       <workItem from="1643511746886" duration="29002000" />
       <workItem from="1643819492887" duration="1171000" />
+      <workItem from="1643821196245" duration="669000" />
+      <workItem from="1643902838100" duration="10293000" />
     </task>
     <task id="LOCAL-00001" summary="&#10;&#10;initial commit">
       <created>1641928952169</created>
@@ -319,7 +336,14 @@
       <option name="project" value="LOCAL" />
       <updated>1643690789753</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="day 43 abstract">
+      <created>1643821223155</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1643821223155</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

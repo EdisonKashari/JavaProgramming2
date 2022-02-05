@@ -12,6 +12,9 @@ public class Animal {
         this.size = size;
         this.color = color;
         this.age = age;
+        if (!(gender=='M' || gender=='F')){
+            throw new RuntimeException("Invalid Gender "+gender);
+        }
         this.gender = gender;
     }
 
