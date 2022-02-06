@@ -1,26 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="12749648-4ab8-4867-9b9e-dee3dfa1300f" name="Changes" comment="day 43 abstract">
-      <change afterPath="$PROJECT_DIR$/src/day_44_Abstraction/Animal/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day_44_Abstraction/Animal/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day_44_Abstraction/Animal/Cow.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day_44_Abstraction/Animal/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day_44_Abstraction/Animal/Dolphin.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day_44_Abstraction/Animal/Duck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day_44_Abstraction/Animal/Eagle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day_44_Abstraction/Animal/Falcon.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day_44_Abstraction/Animal/Flyable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day_44_Abstraction/Animal/Horse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day_44_Abstraction/Animal/Lion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day_44_Abstraction/Animal/Parrot.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day_44_Abstraction/Animal/Plyable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day_44_Abstraction/Animal/Shark.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day_44_Abstraction/Animal/Swimable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day_44_Abstraction/Animal/Tiger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day_44_Abstraction/Animal/Wild.java" afterDir="false" />
+    <list default="true" id="12749648-4ab8-4867-9b9e-dee3dfa1300f" name="Changes" comment="day 44 abstract">
+      <change afterPath="$PROJECT_DIR$/src/day_44_Abstraction/Car/Audi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day_44_Abstraction/Car/AutoPark.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day_44_Abstraction/Car/AutoPilot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day_44_Abstraction/Car/Bmw.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day_44_Abstraction/Car/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day_44_Abstraction/Car/CarShop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day_44_Abstraction/Car/CydeoCar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day_44_Abstraction/Car/Flyable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day_44_Abstraction/Car/Honda.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day_44_Abstraction/Car/Mercedez.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day_44_Abstraction/Car/Nio.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day_44_Abstraction/Car/Tesla.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day_44_Abstraction/Car/Toyota.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day_38_inheritancee/Animal/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day_38_inheritancee/Animal/Animal.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,8 +25,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -79,7 +74,7 @@
       <recent name="C:\Users\ediso\IdeaProjects\JavaProgramming\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.PalindromeWithForLoop">
+  <component name="RunManager" selected="Application.CarShop">
     <configuration name="AnimalObject" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="day_43_Abstract.Animals.AnimalObject" />
       <module name="JavaProgramming" />
@@ -93,12 +88,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EmployeeObject" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day_43_Abstract.Employee.EmployeeObject" />
+    <configuration name="CarShop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day_44_Abstraction.Car.CarShop" />
       <module name="JavaProgramming" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day_43_Abstract.Employee.*" />
+          <option name="PATTERN" value="day_44_Abstraction.Car.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -135,11 +130,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CarShop" />
         <item itemvalue="Application.PalindromeWithForLoop" />
         <item itemvalue="Application.ReverseArray" />
         <item itemvalue="Application.AnimalObject" />
         <item itemvalue="Application.ShapeObject" />
-        <item itemvalue="Application.EmployeeObject" />
       </list>
     </recent_temporary>
   </component>
@@ -202,6 +197,8 @@
       <workItem from="1643819492887" duration="1171000" />
       <workItem from="1643821196245" duration="669000" />
       <workItem from="1643902838100" duration="10293000" />
+      <workItem from="1644018796657" duration="514000" />
+      <workItem from="1644123840892" duration="4043000" />
     </task>
     <task id="LOCAL-00001" summary="&#10;&#10;initial commit">
       <created>1641928952169</created>
@@ -343,7 +340,14 @@
       <option name="project" value="LOCAL" />
       <updated>1643821223155</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="day 44 abstract">
+      <created>1644026846698</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1644026846698</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -376,7 +380,8 @@
     <MESSAGE value="day_39_Recap;" />
     <MESSAGE value="Exceptions" />
     <MESSAGE value="day 43 abstract" />
-    <option name="LAST_COMMIT_MESSAGE" value="day 43 abstract" />
+    <MESSAGE value="day 44 abstract" />
+    <option name="LAST_COMMIT_MESSAGE" value="day 44 abstract" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
