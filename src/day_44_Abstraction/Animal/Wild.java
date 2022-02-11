@@ -2,5 +2,7 @@ package day_44_Abstraction.Animal;
 
 public interface Wild {
 
-    boolean wild();
+    boolean iswild=true;
+
+    void hunt();
 }

@@ -15,8 +15,9 @@ public class Shark extends Animal implements Swimable,Wild {
         System.out.println(getName()+" is swiming");
     }
 
+
     @Override
-    public boolean wild() {
-        return true;
+    public void hunt() {
+        System.out.println(getName() +" is hunt for fish");
     }
 }

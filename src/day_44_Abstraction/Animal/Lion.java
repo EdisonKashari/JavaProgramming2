@@ -10,8 +10,9 @@ public class Lion extends Animal implements Wild{
         System.out.println(getName()+" is eating the cow");
     }
 
+
     @Override
-    public boolean wild() {
-        return true;
+    public void hunt() {
+
     }
 }

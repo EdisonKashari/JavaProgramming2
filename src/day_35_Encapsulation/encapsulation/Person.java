@@ -3,6 +3,7 @@ package day_35_Encapsulation.encapsulation;
 public class Person {
     private String name;
     private int age;
+   // public static double pi=3.14;
 
 
     public String getName(){
@@ -16,6 +17,7 @@ public class Person {
 public int getAge(){
         return age;
 }
+
 
 public void setAge(int age){
         if (age<=0 || age>150){

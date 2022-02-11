@@ -18,6 +18,6 @@ public class Parrot extends Animal implements Plyable,Flyable{
 
     @Override
     public void fly() {
-        System.out.println(getName()+" is flying");
+        System.out.println(getName()+" can fly 20 km/h ");
     }
 }

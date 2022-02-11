@@ -1,6 +1,6 @@
 package day_44_Abstraction.Animal;
 
 public interface Flyable {
-
-    void fly();
+     boolean canFly = true;//static and final by default
+    void fly();// abstract by default
 }

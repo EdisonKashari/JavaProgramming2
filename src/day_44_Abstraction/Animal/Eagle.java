@@ -11,13 +11,16 @@ public class Eagle extends Animal implements Wild,Flyable{
 
     }
 
-    @Override
-    public boolean wild() {
-        return true;
-    }
+
 
     @Override
     public void fly() {
-        System.out.println(getName()+ " is flying");
+        System.out.println(getName()+ " can fly 60km/h");
+    }
+
+    @Override
+    public void hunt() {
+        System.out.println(getName()+" is hunts snake");
+
     }
 }

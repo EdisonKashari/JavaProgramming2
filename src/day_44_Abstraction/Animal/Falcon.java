@@ -10,13 +10,14 @@ public class Falcon extends Animal implements Wild,Flyable{
         System.out.println(getName()+" is eating falcon food");
     }
 
-    @Override
-    public boolean wild() {
-        return true;
-    }
 
     @Override
     public void fly() {
         System.out.println(getName()+" is flying");
+    }
+
+    @Override
+    public void hunt() {
+
     }
 }

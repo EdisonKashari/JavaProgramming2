@@ -1,6 +1,6 @@
 package day_44_Abstraction.Car;
 
-public class Nio extends Car implements AutoPark,AutoPilot{
+public class Nio extends Car implements AutoPilot{
     public Nio(String make, String model, int year, double price, String color) {
         super(make, model, year, price, color);
     }

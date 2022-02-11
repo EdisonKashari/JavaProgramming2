@@ -7,7 +7,11 @@ public class Dog extends Animal implements Plyable{
 
     @Override
     public void eat() {
+        System.out.println(getName()+" is eating pizza");
 
+    }
+    public void bark(){
+        System.out.println(getName()+" is barking");
     }
 
     @Override

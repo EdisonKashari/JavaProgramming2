@@ -10,8 +10,11 @@ public class Tiger extends Animal implements Wild {
         System.out.println(getName()+" is eating deer");
     }
 
+
+
     @Override
-    public boolean wild() {
-        return true;
+    public void hunt() {
+        System.out.println(getName()+" is hunt deer");
+
     }
 }
