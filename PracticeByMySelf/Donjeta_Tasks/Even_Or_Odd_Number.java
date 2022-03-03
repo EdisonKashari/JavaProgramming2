@@ -1,19 +1,24 @@
 package Donjeta_Tasks;
 
 public class Even_Or_Odd_Number {
-    public static void main(String[] args) {
-        int number = 50;
 
-        for (int i = 0; i <= number; i++) {
-            if (i%2==0){
-                System.out.print(i+" are even number");
+    public static void even_oddNumber(int num){
 
-            }else {
-                System.out.print(i);
-            }
-
-
-
+        if (num%2==0){
+            System.out.println(num+" is even number");
+        }else{
+            System.out.println(num+" is odd number");
         }
+    }
+
+
+
+    public static void main(String[] args) {
+       even_oddNumber(5);
+       even_oddNumber(6);
+
+
+
+
     }
 }

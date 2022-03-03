@@ -1,9 +1,11 @@
 package Donjeta_Tasks;
 
 public class Finra {
-    public static void main(String[] args) {
 
-        for (int i = 1; i <= 30; i++) {
+
+    public static void finra(int x,int y){
+
+        for (int i = x; i <= y; i++) {
             if (i%5==0 && i%3==0){
                 System.out.print("FINRA ");
             }else if (i%3==0){
@@ -16,6 +18,11 @@ public class Finra {
 
         }
 
+
+    }
+    public static void main(String[] args) {
+
+finra(1,30);
 
 
 

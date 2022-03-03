@@ -1,4 +1,4 @@
-package day_38_inheritancee;
+package day_46_PolymorphismIntro;
 
 
 import day_44_Abstraction.Car.Bmw;
@@ -58,10 +58,12 @@ public class CarShop {
                 maxMileage=each.getMileage();
                 System.out.println("Car with max mileage: "+each.getBrand()+" "+ each.getModel()+" "+maxMileage);
             }
-
+             String CarMinMileage = "";
             if (minMileage>each.getMileage()){
                 minMileage=each.getMileage();
-                System.out.println("Car with min mileage: "+each.getBrand()+" "+ each.getModel()+" "+minMileage);
+                CarMinMileage = each.getBrand();
+
+                System.out.println("Car with min mileage: "+CarMinMileage+" "+ each.getModel()+" "+minMileage);
             }
 
         }
